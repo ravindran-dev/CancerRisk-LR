@@ -1,4 +1,4 @@
-# Cancer_Prediction - Logistic Regression
+# CancerRisk - Logistic Regression
 
 This project implements **Logistic Regression**, a fundamental algorithm in statistical learning, to perform binary classification on a real-world dataset. The workflow includes data preprocessing, model training, performance evaluation, and result visualization.
 
