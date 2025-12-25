@@ -2,7 +2,7 @@
 
 This project implements **Logistic Regression**, a fundamental algorithm in statistical learning, to perform binary classification on a real-world dataset. The workflow includes data preprocessing, model training, performance evaluation, and result visualization.
 
----
+
 
 ## Project Highlights
 
@@ -13,7 +13,7 @@ This project implements **Logistic Regression**, a fundamental algorithm in stat
 - Model evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC)
 - Confusion matrix and performance visualization
 
----
+
 
 ## Repository Structure
 
@@ -24,7 +24,7 @@ This project implements **Logistic Regression**, a fundamental algorithm in stat
 
 
 
----
+
 
 ## Getting Started
 
@@ -83,6 +83,36 @@ These are sample metrics — replace with your actual results.
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
-- RAVINDRAN S
-- Aspiring AI/ML Engineer
+##  Author - **Ravindran S** 
+
+
+Developer • ML Enthusiast • Neovim Customizer • Linux Power User  
+
+Hi! I'm **Ravindran S**, an engineering student passionate about:
+
+-  Linux & System Engineering  
+-  AIML (Artificial Intelligence & Machine Learning)  
+-  Full-stack Web Development  
+-  Hackathon-grade project development  
+
+
+
+## 🔗 Connect With Me
+
+You can reach me here:
+
+###  **Socials**
+<a href="www.linkedin.com/in/ravindran-s-982702327" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<a href="https://github.com/ravindran-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+###  **Contact**
+<a href="mailto:ravindrans.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
