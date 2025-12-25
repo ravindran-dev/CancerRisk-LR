@@ -1,21 +1,21 @@
-# Cancer_Prediction---Logistic-Regression
+# Cancer_Prediction - Logistic Regression
 
 This project implements **Logistic Regression**, a fundamental algorithm in statistical learning, to perform binary classification on a real-world dataset. The workflow includes data preprocessing, model training, performance evaluation, and result visualization.
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
-- 📂 End-to-end binary classification pipeline
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data cleaning and preprocessing
-- ⚙️ Logistic Regression model training
-- 📈 Model evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC)
-- 📉 Confusion matrix and performance visualization
+- End-to-end binary classification pipeline
+- Exploratory Data Analysis (EDA)
+- Data cleaning and preprocessing
+- Logistic Regression model training
+- Model evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC)
+- Confusion matrix and performance visualization
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 #### ├── Logistic Regression Project.ipynb # Jupyter Notebook with all steps
 #### ├── requirements.txt # Python dependencies
@@ -26,7 +26,7 @@ This project implements **Logistic Regression**, a fundamental algorithm in stat
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -55,7 +55,7 @@ jupyter notebook
 ```
 Then open Logistic Regression Project.ipynb and run the cells.
 
-## 🔧 Technologies Used
+## Technologies Used
 - Language: Python 3.12
 
 - Environment: Jupyter Notebook
@@ -64,14 +64,14 @@ Then open Logistic Regression Project.ipynb and run the cells.
 
   - pandas, numpy, matplotlib, seaborn, scikit-learn
 
-## 📊 Model Evaluation Metrics
+## Model Evaluation Metrics
 - Metric	Value
 - Accuracy	86%
 - Precision	0.84
   
 These are sample metrics — replace with your actual results.
 
-## 🔍 Key Concepts Covered
+## Key Concepts Covered
 - Understanding logistic regression and sigmoid function
 
 - Feature scaling and encoding techniques
@@ -80,9 +80,9 @@ These are sample metrics — replace with your actual results.
 
 - Interpreting classification performance metrics
 
-## 📄 License
+## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
+## Author
 - RAVINDRAN S
 - Aspiring AI/ML Engineer
